@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CelebritySmiles AJO</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>CelebritySmiles AJO</h1>
+    <p>Your trusted daily contribution partner</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>How It Works</h2>
+      <ul>
+        <li>✅ Join a daily plan</li>
+        <li>💰 Contribute securely</li>
+        <li>🔁 Get paid in turn</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Get Started</h2>
+      <button onclick="alert('Sign-up form coming soon!')">Join Now</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 CelebritySmiles. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
